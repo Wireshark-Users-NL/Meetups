@@ -1,2 +1,2 @@
 # Meetups
-Repository for the meetup presentations
+Repository for the Wireshark Users NL meetup presentations
