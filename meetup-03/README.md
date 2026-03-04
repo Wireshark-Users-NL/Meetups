@@ -27,4 +27,4 @@ There are a few portable USB powered gigabit Ethernet taps on the market that ha
 
 *Bio: Sake has been analyzing packets for over 20 years. During his work, Sake started developing functionality for Wireshark while working with the analyzer in his day-to-day job. He also enhanced multiple protocol dissectors. In 2007, Sake joined the Wireshark Core Development team. In 2009, After working for a reseller of networking equipment for 8 years, he started the company SYN-bit to provide network analysis and training services to enterprises across Europe.*
 
-See you in De Meern on February 27th, 2023!
+See you in De Meern on February 27th, 2024!
